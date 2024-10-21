@@ -4,14 +4,18 @@ channels:
 - conda-forge
 
 dependencies:
+- aiohttp
 - beautifulsoup4
 - jupyterlab
+- lxml
 - matplotlib
+- networkx
+- nodejs
 - numpy
 - pandas
 - pillow
-- wikipediaapi
 - pip
+- pyarrow
 - python>=3.10
 - requests
 - scipy
@@ -22,3 +26,4 @@ dependencies:
 - pip:
   - nbopen
   - otter-grader
+  - jupyterlab-vim
