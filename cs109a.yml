@@ -21,6 +21,7 @@ dependencies:
 - requests
 - scipy
 - scikit-learn
+- imbalanced-learn
 - seaborn
 - selenium
 - statsmodels
