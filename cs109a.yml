@@ -25,6 +25,7 @@ dependencies:
 - seaborn
 - selenium
 - statsmodels
+- graphvis
 - pip:
   - nbopen
   - otter-grader
